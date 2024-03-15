@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=ficohsapubsubstorage;AccountKey=gMrCnTNcxQy/me+CKVE0S3yk5ebAXty/VL4vNgLo08SB5ZMRS83BYtuT4OHljzK9qWFK23kq6hvi+AStmi0WSQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "ficohsapubsubpoc_SERVICEBUS": "Endpoint=sb://ficohsa-pubsub-poc.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=GeyRtV/RwTp/Y9KXGR034fszt0OVm6/nc+ASbIc1w4o=",
+    "WebPubSubConnectionString": "Endpoint=https://ps-ficohsa-poc.webpubsub.azure.com;AccessKey=lS91xc/xqjoj3yAmzAFkt9Pc0gK38EjxWF6SB29IQnA=;Version=1.0;"
+  }
+}
